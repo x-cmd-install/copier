@@ -7,7 +7,7 @@ about:
   head: 03c95e2
   archived: false
   latestVersion: v9.18.1
-  collectedAt: 2026-09-04T19:31:17Z
+  collectedAt: 2026-09-04T20:59:11Z
 timeline:
   created: 2011-11-01
   lastCommit: 2026-09-01
@@ -84,5 +84,53 @@ total:
   openIssue: 95
   commit: 2339
 ---
+path: /home/runner/.x-repo/github.com/copier-org/copier
+collectedAt: 2026-09-04T20:59:12Z
+loc:
+  Python:
+    code: 19022
+    comments: 900
+    blanks: 2366
+    files: 69
+  Yaml:
+    code: 211
+    comments: 2
+    blanks: 20
+    files: 26
+  Toml:
+    code: 207
+    comments: 3
+    blanks: 35
+    files: 2
+  Svg:
+    code: 157
+    comments: 0
+    blanks: 0
+    files: 2
+  Json:
+    code: 138
+    comments: 0
+    blanks: 0
+    files: 10
+  Css:
+    code: 27
+    comments: 0
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2599
+    blanks: 1191
+    files: 14
+  Text:
+    code: 0
+    comments: 18
+    blanks: 0
+    files: 19
+total:
+  code: 20412
+  comments: 3588
+  blanks: 3687
+  files: 143
 ---
 
