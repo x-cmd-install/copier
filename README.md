@@ -7,7 +7,7 @@ Library and command-line utility for rendering projects templates.
 - **Latest release**: `v9.18.2` (2026-09-07)
 - **Last commit**: 2026-09-07
 - **License**: MIT
-- **Stars**: 3561 · **Forks**: 273 · **Open issues**: 637 · **Contributors**: 126
+- **Stars**: 3563 · **Forks**: 273 · **Open issues**: 637 · **Contributors**: 126
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/copier> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T04:30:04Z._
+_Last regenerated: 2026-09-09T18:29:58Z._
