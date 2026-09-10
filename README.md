@@ -12,6 +12,18 @@ Library and command-line utility for rendering projects templates.
 x install copier
 ```
 
+## Code insight
+
+Total: **19,902** lines of code across **109** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 19,162 | 933 | 2,386 | 69 |
+| Yaml | 211 | 2 | 20 | 26 |
+| Toml | 207 | 3 | 35 | 2 |
+| Svg | 157 | 0 | 0 | 2 |
+| Json | 138 | 0 | 0 | 10 |
+
 ## Source
 
 - **Upstream**: <https://github.com/copier-org/copier>
@@ -29,27 +41,27 @@ x install copier
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1699 · **Open PRs**: 51 · **Closed issues**: 544 · **Open issues**: 93 · **Commits**: 2343
+- **Releases**: 76 · **Merged PRs**: 1699 · **Open PRs**: 52 · **Closed issues**: 544 · **Open issues**: 93 · **Commits**: 2343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 23 | 6 | 1 | 1 | 35 |
-| 90d | 2026-06-12 | 8 | 80 | 10 | 5 | 4 | 97 |
-| 360d | 2025-09-15 | 22 | 354 | 27 | 32 | 23 | 396 |
+| 30d | 2026-08-11 | 4 | 23 | 7 | 1 | 1 | 35 |
+| last60d | 2026-07-12 | 6 | 58 | 8 | 3 | 3 | 68 |
+| 90d | 2026-06-12 | 8 | 80 | 11 | 5 | 4 | 97 |
+| last180d | 2026-03-14 | 13 | 199 | 18 | 16 | 11 | 222 |
+| 360d | 2025-09-15 | 22 | 354 | 28 | 32 | 23 | 396 |
+| last720d | 2024-09-20 | 34 | 698 | 44 | 93 | 56 | 761 |
 
-## Code size
+## Distribution status
 
-Total: **19,902** lines of code across **109** files in the top 5 languages.
+Reported by **8** distros on [repology.org](https://repology.org/project/copier). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 19,162 | 933 | 2,386 | 69 |
-| Yaml | 211 | 2 | 20 | 26 |
-| Toml | 207 | 3 | 35 | 2 |
-| Svg | 157 | 0 | 0 | 2 |
-| Json | 138 | 0 | 0 | 10 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `9.18.2` | ✅ latest |
+| Nix unstable | `9.17.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -60,4 +72,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:18:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:11:22Z._
