@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.18.2"
   latestRelease: "v9.18.2"
   latestPrerelease: "v3.0.0-beta1"
-  collectedAt: 2026-09-10T21:11:16Z
+  collectedAt: 2026-09-10T22:48:48Z
 timeline:
   created: 2011-11-01
   lastCommit: 2026-09-07
@@ -87,7 +87,7 @@ total:
   commit: 2343
 ---
 path: /home/runner/.x-repo/github.com/copier-org/copier
-collectedAt: 2026-09-10T21:11:18Z
+collectedAt: 2026-09-10T22:48:52Z
 loc:
   Python:
     code: 19162
