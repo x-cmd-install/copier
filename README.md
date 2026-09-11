@@ -37,7 +37,7 @@ Total: **19,902** lines of code across **109** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,564 · **Forks**: 273 · **Open issues**: 637 · **Contributors**: 126
+- **Stars**: 3,563 · **Forks**: 273 · **Open issues**: 637 · **Contributors**: 126
 
 ## Totals (cumulative)
 
@@ -72,4 +72,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:28:05Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:34:28Z._
