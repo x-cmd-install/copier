@@ -47,12 +47,12 @@ Total: **19,902** lines of code across **109** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 4 | 20 | 8 | 1 | 1 | 35 |
-| last60d | 2026-07-13 | 6 | 57 | 9 | 3 | 3 | 68 |
-| 90d | 2026-06-13 | 7 | 79 | 12 | 5 | 4 | 97 |
-| last180d | 2026-03-15 | 13 | 199 | 19 | 16 | 11 | 222 |
-| 360d | 2025-09-16 | 22 | 354 | 29 | 32 | 23 | 396 |
-| last720d | 2024-09-21 | 34 | 697 | 45 | 93 | 56 | 761 |
+| 30d | 2026-08-13 | 4 | 20 | 8 | 1 | 1 | 35 |
+| last60d | 2026-07-14 | 5 | 57 | 9 | 3 | 3 | 68 |
+| 90d | 2026-06-14 | 7 | 79 | 12 | 5 | 4 | 97 |
+| last180d | 2026-03-16 | 13 | 197 | 19 | 16 | 11 | 222 |
+| 360d | 2025-09-17 | 22 | 354 | 29 | 32 | 23 | 396 |
+| last720d | 2024-09-22 | 34 | 696 | 45 | 93 | 56 | 758 |
 
 ## Distribution status
 
@@ -72,4 +72,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T20:34:28Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T04:25:43Z._
