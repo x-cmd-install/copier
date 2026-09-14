@@ -37,31 +37,22 @@ Total: **19,902** lines of code across **109** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,563 · **Forks**: 273 · **Open issues**: 637 · **Contributors**: 126
+- **Stars**: 3,566 · **Forks**: 273 · **Open issues**: 637 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1699 · **Open PRs**: 53 · **Closed issues**: 544 · **Open issues**: 93 · **Commits**: 2343
+- **Releases**: 76 · **Merged PRs**: 1699 · **Open PRs**: 55 · **Closed issues**: 544 · **Open issues**: 93 · **Commits**: 2343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 20 | 8 | 1 | 1 | 35 |
-| last60d | 2026-07-15 | 5 | 57 | 8 | 3 | 3 | 68 |
-| 90d | 2026-06-15 | 7 | 78 | 12 | 5 | 4 | 97 |
-| last180d | 2026-03-17 | 13 | 196 | 17 | 16 | 11 | 222 |
-| 360d | 2025-09-18 | 22 | 353 | 29 | 32 | 23 | 396 |
-| last720d | 2024-09-23 | 34 | 694 | 45 | 93 | 56 | 756 |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/copier). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `9.18.2` | ✅ latest |
-| Nix unstable | `9.17.1` | ⚠️ outdated |
+| 30d | 2026-08-15 | 4 | 18 | 10 | 1 | 1 | 20 |
+| last60d | 2026-07-16 | 5 | 57 | 10 | 3 | 2 | 68 |
+| 90d | 2026-06-16 | 7 | 77 | 14 | 5 | 4 | 89 |
+| last180d | 2026-03-18 | 13 | 196 | 19 | 16 | 10 | 213 |
+| 360d | 2025-09-19 | 22 | 351 | 31 | 32 | 23 | 388 |
+| last720d | 2024-09-24 | 34 | 693 | 47 | 93 | 56 | 755 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:38:23Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:44:58Z._
