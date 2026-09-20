@@ -4,7 +4,7 @@
 
 Library and command-line utility for rendering projects templates.
 
-![copier](https://repo.x-cmd.io/copier.svg)
+[![x-cmd/install — copier Code Quality Monitoring Repo Card](https://repo.x-cmd.io/copier.svg)](https://x-cmd.com/install/copier)
 
 ## Install
 
@@ -33,26 +33,26 @@ Total: **19,902** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v9.18.2` (2026-09-07)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 3,579 · **Forks**: 273 · **Open issues**: 637 · **Contributors**: 126
+- **Stars**: 3,583 · **Forks**: 273 · **Open issues**: 638 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1699 · **Open PRs**: 56 · **Closed issues**: 544 · **Open issues**: 93 · **Commits**: 2343
+- **Releases**: 76 · **Merged PRs**: 1709 · **Open PRs**: 48 · **Closed issues**: 544 · **Open issues**: 94 · **Commits**: 2353
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 8 | 11 | 1 | 1 | 20 |
-| last60d | 2026-07-20 | 5 | 57 | 11 | 3 | 2 | 68 |
-| 90d | 2026-06-20 | 7 | 72 | 15 | 4 | 4 | 89 |
-| last180d | 2026-03-22 | 13 | 188 | 20 | 15 | 10 | 213 |
-| 360d | 2025-09-23 | 22 | 350 | 32 | 32 | 23 | 388 |
-| last720d | 2024-09-28 | 34 | 690 | 48 | 93 | 56 | 751 |
+| 30d | 2026-08-21 | 3 | 17 | 3 | 1 | 2 | 30 |
+| last60d | 2026-07-22 | 5 | 67 | 3 | 3 | 3 | 78 |
+| 90d | 2026-06-22 | 7 | 80 | 7 | 4 | 5 | 99 |
+| last180d | 2026-03-24 | 13 | 194 | 12 | 15 | 11 | 223 |
+| 360d | 2025-09-25 | 22 | 355 | 23 | 31 | 24 | 398 |
+| last720d | 2024-09-30 | 34 | 698 | 40 | 92 | 57 | 760 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:31:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:45:40Z._
