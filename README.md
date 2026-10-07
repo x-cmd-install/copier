@@ -14,11 +14,11 @@ x install copier
 
 ## Code insight
 
-Total: **19,946** lines of code across **109** files in the top 5 languages.
+Total: **20,114** lines of code across **109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 19,206 | 934 | 2,394 | 69 |
+| Python | 19,374 | 937 | 2,403 | 69 |
 | Yaml | 211 | 2 | 20 | 26 |
 | Toml | 207 | 3 | 35 | 2 |
 | Svg | 157 | 0 | 0 | 2 |
@@ -33,26 +33,26 @@ Total: **19,946** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v9.18.2` (2026-09-07)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-06
 
 ## Popularity
 
-- **Stars**: 3,613 · **Forks**: 274 · **Open issues**: 640 · **Contributors**: 126
+- **Stars**: 3,617 · **Forks**: 275 · **Open issues**: 641 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1716 · **Open PRs**: 53 · **Closed issues**: 545 · **Open issues**: 95 · **Commits**: 2360
+- **Releases**: 76 · **Merged PRs**: 1721 · **Open PRs**: 49 · **Closed issues**: 546 · **Open issues**: 95 · **Commits**: 2365
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 12 | 8 | 1 | 2 | 14 |
-| last60d | 2026-08-07 | 4 | 46 | 8 | 3 | 3 | 54 |
-| 90d | 2026-07-08 | 6 | 75 | 10 | 4 | 6 | 87 |
-| last180d | 2026-04-09 | 12 | 180 | 14 | 15 | 11 | 197 |
-| 360d | 2025-10-11 | 22 | 354 | 28 | 31 | 24 | 391 |
-| last720d | 2024-10-16 | 33 | 688 | 44 | 88 | 57 | 752 |
+| 30d | 2026-09-07 | 1 | 16 | 4 | 1 | 3 | 19 |
+| last60d | 2026-08-08 | 4 | 50 | 4 | 3 | 4 | 59 |
+| 90d | 2026-07-09 | 6 | 80 | 6 | 5 | 6 | 92 |
+| last180d | 2026-04-10 | 11 | 181 | 10 | 14 | 11 | 202 |
+| 360d | 2025-10-12 | 22 | 359 | 24 | 32 | 24 | 396 |
+| last720d | 2024-10-17 | 33 | 693 | 40 | 89 | 57 | 755 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:09:46Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:45:20Z._
