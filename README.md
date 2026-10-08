@@ -33,26 +33,26 @@ Total: **20,114** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v9.18.2` (2026-09-07)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 
 ## Popularity
 
-- **Stars**: 3,617 · **Forks**: 275 · **Open issues**: 641 · **Contributors**: 126
+- **Stars**: 3,621 · **Forks**: 275 · **Open issues**: 641 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1721 · **Open PRs**: 49 · **Closed issues**: 546 · **Open issues**: 95 · **Commits**: 2365
+- **Releases**: 76 · **Merged PRs**: 1724 · **Open PRs**: 48 · **Closed issues**: 547 · **Open issues**: 94 · **Commits**: 2368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 16 | 4 | 1 | 3 | 19 |
-| last60d | 2026-08-08 | 4 | 50 | 4 | 3 | 4 | 59 |
-| 90d | 2026-07-09 | 6 | 80 | 6 | 5 | 6 | 92 |
-| last180d | 2026-04-10 | 11 | 181 | 10 | 14 | 11 | 202 |
-| 360d | 2025-10-12 | 22 | 359 | 24 | 32 | 24 | 396 |
-| last720d | 2024-10-17 | 33 | 693 | 40 | 89 | 57 | 755 |
+| 30d | 2026-09-08 | 0 | 19 | 3 | 2 | 2 | 22 |
+| last60d | 2026-08-09 | 4 | 52 | 3 | 4 | 3 | 62 |
+| 90d | 2026-07-10 | 6 | 83 | 4 | 6 | 4 | 95 |
+| last180d | 2026-04-11 | 10 | 183 | 9 | 15 | 10 | 205 |
+| 360d | 2025-10-13 | 22 | 361 | 22 | 33 | 23 | 399 |
+| last720d | 2024-10-18 | 33 | 695 | 39 | 90 | 56 | 758 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:45:20Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T05:52:03Z._
