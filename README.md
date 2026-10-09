@@ -33,26 +33,26 @@ Total: **20,114** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v9.18.2` (2026-09-07)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 
 ## Popularity
 
-- **Stars**: 3,621 · **Forks**: 275 · **Open issues**: 641 · **Contributors**: 126
+- **Stars**: 3,623 · **Forks**: 275 · **Open issues**: 641 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1724 · **Open PRs**: 48 · **Closed issues**: 547 · **Open issues**: 94 · **Commits**: 2368
+- **Releases**: 76 · **Merged PRs**: 1725 · **Open PRs**: 48 · **Closed issues**: 547 · **Open issues**: 94 · **Commits**: 2369
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 19 | 3 | 2 | 2 | 22 |
-| last60d | 2026-08-09 | 4 | 52 | 3 | 4 | 3 | 62 |
-| 90d | 2026-07-10 | 6 | 83 | 4 | 6 | 4 | 95 |
-| last180d | 2026-04-11 | 10 | 183 | 9 | 15 | 10 | 205 |
-| 360d | 2025-10-13 | 22 | 361 | 22 | 33 | 23 | 399 |
-| last720d | 2024-10-18 | 33 | 695 | 39 | 90 | 56 | 758 |
+| 30d | 2026-09-09 | 0 | 20 | 3 | 2 | 2 | 23 |
+| last60d | 2026-08-10 | 4 | 51 | 3 | 4 | 3 | 63 |
+| 90d | 2026-07-11 | 6 | 84 | 4 | 6 | 4 | 96 |
+| last180d | 2026-04-12 | 10 | 184 | 9 | 15 | 10 | 206 |
+| 360d | 2025-10-14 | 22 | 362 | 22 | 33 | 23 | 400 |
+| last720d | 2024-10-19 | 32 | 696 | 39 | 90 | 56 | 756 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:52:03Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T05:57:25Z._
