@@ -37,22 +37,22 @@ Total: **20,114** lines of code across **109** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,623 · **Forks**: 275 · **Open issues**: 641 · **Contributors**: 126
+- **Stars**: 3,625 · **Forks**: 275 · **Open issues**: 642 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 76 · **Merged PRs**: 1725 · **Open PRs**: 48 · **Closed issues**: 547 · **Open issues**: 94 · **Commits**: 2369
+- **Releases**: 76 · **Merged PRs**: 1725 · **Open PRs**: 51 · **Closed issues**: 548 · **Open issues**: 94 · **Commits**: 2369
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 20 | 3 | 2 | 2 | 23 |
-| last60d | 2026-08-10 | 4 | 51 | 3 | 4 | 3 | 63 |
-| 90d | 2026-07-11 | 6 | 84 | 4 | 6 | 4 | 96 |
-| last180d | 2026-04-12 | 10 | 184 | 9 | 15 | 10 | 206 |
-| 360d | 2025-10-14 | 22 | 362 | 22 | 33 | 23 | 400 |
-| last720d | 2024-10-19 | 32 | 696 | 39 | 90 | 56 | 756 |
+| 30d | 2026-09-10 | 0 | 19 | 6 | 2 | 3 | 23 |
+| last60d | 2026-08-11 | 4 | 49 | 6 | 3 | 4 | 63 |
+| 90d | 2026-07-12 | 6 | 84 | 7 | 6 | 5 | 96 |
+| last180d | 2026-04-13 | 10 | 184 | 12 | 15 | 11 | 206 |
+| 360d | 2025-10-15 | 22 | 358 | 24 | 33 | 24 | 400 |
+| last720d | 2024-10-20 | 32 | 695 | 42 | 90 | 56 | 755 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:57:25Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:39:34Z._
