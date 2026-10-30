@@ -7,7 +7,7 @@ about:
   latestVersion: "v9.19.1"
   latestRelease: "v9.19.1"
   latestPrerelease: "v3.0.0-beta1"
-  collectedAt: 2026-10-29T05:35:59Z
+  collectedAt: 2026-10-30T05:35:20Z
 timeline:
   created: 2011-11-01
   lastCommit: 2026-10-28
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-10-13
   lastPrerelease: 2020-03-18
 popularity:
-  star: 3662
+  star: 3667
   watcher: 18
   fork: 278
   release: 78
@@ -31,15 +31,15 @@ language:
 totalBytes: 748155
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 2
-    mergedPR: 27
+    mergedPR: 26
     openPR: 14
-    closedIssue: 5
+    closedIssue: 4
     openIssue: 1
     commit: 27
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 5
     mergedPR: 46
     openPR: 14
@@ -47,7 +47,7 @@ recent:
     openIssue: 3
     commit: 51
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 7
     mergedPR: 99
     openPR: 14
@@ -55,25 +55,25 @@ recent:
     openIssue: 3
     commit: 114
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 11
-    mergedPR: 177
+    mergedPR: 176
     openPR: 19
     closedIssue: 16
     openIssue: 8
     commit: 198
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 23
-    mergedPR: 362
+    mergedPR: 361
     openPR: 30
     closedIssue: 34
     openIssue: 22
     commit: 404
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 34
-    mergedPR: 695
+    mergedPR: 694
     openPR: 50
     closedIssue: 87
     openIssue: 53
@@ -87,7 +87,7 @@ total:
   commit: 2390
 ---
 path: /home/runner/.x-repo/github.com/copier-org/copier
-collectedAt: 2026-10-29T05:36:03Z
+collectedAt: 2026-10-30T05:35:23Z
 loc:
   Python:
     code: 19430
