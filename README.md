@@ -41,27 +41,18 @@ Total: **20,250** lines of code across **109** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1762 · **Open PRs**: 57 · **Closed issues**: 553 · **Open issues**: 92 · **Commits**: 2409
+- **Releases**: 78 · **Merged PRs**: 1762 · **Open PRs**: 59 · **Closed issues**: 553 · **Open issues**: 92 · **Commits**: 2409
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 37 | 12 | 4 | 1 | 39 |
-| last60d | 2026-09-06 | 3 | 58 | 12 | 6 | 2 | 64 |
-| 90d | 2026-08-07 | 6 | 92 | 12 | 8 | 3 | 105 |
-| last180d | 2026-05-09 | 11 | 187 | 17 | 16 | 8 | 205 |
-| 360d | 2025-11-10 | 23 | 374 | 27 | 35 | 21 | 413 |
-| last720d | 2024-11-15 | 34 | 710 | 48 | 88 | 52 | 775 |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/copier). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `9.19.1` | ✅ latest |
-| Nix unstable | `9.17.1` | ⚠️ outdated |
+| 30d | 2026-10-07 | 2 | 36 | 14 | 3 | 1 | 39 |
+| last60d | 2026-09-07 | 3 | 57 | 14 | 6 | 2 | 64 |
+| 90d | 2026-08-08 | 6 | 91 | 14 | 8 | 3 | 105 |
+| last180d | 2026-05-10 | 11 | 185 | 19 | 16 | 8 | 205 |
+| 360d | 2025-11-11 | 23 | 371 | 29 | 34 | 21 | 413 |
+| last720d | 2024-11-16 | 34 | 710 | 50 | 88 | 52 | 774 |
 
 ## Improve this data
 
@@ -72,4 +63,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:29:09Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:24:09Z._
