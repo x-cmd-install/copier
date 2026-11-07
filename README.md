@@ -33,26 +33,35 @@ Total: **20,250** lines of code across **109** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v9.19.1` (2026-10-13)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
-- **Stars**: 3,680 · **Forks**: 280 · **Open issues**: 645 · **Contributors**: 128
+- **Stars**: 3,682 · **Forks**: 280 · **Open issues**: 645 · **Contributors**: 129
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1762 · **Open PRs**: 59 · **Closed issues**: 553 · **Open issues**: 92 · **Commits**: 2409
+- **Releases**: 78 · **Merged PRs**: 1763 · **Open PRs**: 58 · **Closed issues**: 554 · **Open issues**: 91 · **Commits**: 2410
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 36 | 14 | 3 | 1 | 39 |
-| last60d | 2026-09-07 | 3 | 57 | 14 | 6 | 2 | 64 |
-| 90d | 2026-08-08 | 6 | 91 | 14 | 8 | 3 | 105 |
-| last180d | 2026-05-10 | 11 | 185 | 19 | 16 | 8 | 205 |
-| 360d | 2025-11-11 | 23 | 371 | 29 | 34 | 21 | 413 |
-| last720d | 2024-11-16 | 34 | 710 | 50 | 88 | 52 | 774 |
+| 30d | 2026-10-08 | 2 | 35 | 13 | 3 | 1 | 40 |
+| last60d | 2026-09-08 | 2 | 58 | 13 | 6 | 2 | 65 |
+| 90d | 2026-08-09 | 6 | 91 | 13 | 8 | 3 | 106 |
+| last180d | 2026-05-11 | 11 | 184 | 18 | 16 | 8 | 206 |
+| 360d | 2025-11-12 | 23 | 372 | 28 | 33 | 21 | 414 |
+| last720d | 2024-11-17 | 34 | 711 | 49 | 88 | 52 | 775 |
+
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/copier). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `9.19.1` | ✅ latest |
+| Nix unstable | `9.17.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -63,4 +72,4 @@ Install metadata for copier lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:24:09Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:48:11Z._
